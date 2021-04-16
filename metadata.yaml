@@ -1,5 +1,5 @@
 _repo: The-Evolution-Theory-Vol-2-of-2_65049
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Thomson, Margaret R.
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '9286'
     url: http://www.gutenberg.org/2009/agents/9286
     wikipedia: https://en.wikipedia.org/wiki/J._Arthur_Thomson
+covers:
+- cover_type: archival
+  image_path: 65049-h/images/cover.jpg
 creator:
   author:
     agent_name: Weismann, August
@@ -26,6 +29,8 @@ creator:
     - https://de.wikipedia.org/wiki/August_Weismann
     - https://en.wikipedia.org/wiki/August_Weismann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65049#The-Evolution-Theory-Vol-2-of-2
 gutenberg_issued: '2021-04-10'
 gutenberg_type: Text
 identifiers:
